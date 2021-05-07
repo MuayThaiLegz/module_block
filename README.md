@@ -31,7 +31,13 @@ Test the PyChain Ledger by Storing Records
 ------
 
 ### Types Of Technology used
-This Blockchain was built on the python platform using streamlit. Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. 
+This Blockchain was built on the python platform using streamlit. 
+
+* Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. 
+
+https://docs.streamlit.io/en/stable/
+
+:nerd_face:
 
 ![pythonblockchain](https://media.onlinecoursebay.com/2019/07/30020503/2454264_fd7c-750x405.jpg)
 
