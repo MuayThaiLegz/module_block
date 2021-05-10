@@ -37,7 +37,6 @@ This Blockchain was built on the python platform using streamlit.
 
 https://docs.streamlit.io/en/stable/
 
-:nerd_face:
 
 ![pythonblockchain](https://media.onlinecoursebay.com/2019/07/30020503/2454264_fd7c-750x405.jpg)
 
